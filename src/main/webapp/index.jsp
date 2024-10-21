@@ -33,7 +33,7 @@
                 <input type="password" id="confirmPassword" name="confirmPassword" placeholder="Confirm password" required>
                 <span class="error" id="confirmPasswordError"></span>
             </div>
-            <button type="submit">Register</button>
+            <button type="register">Register User</button>
         </form>
     </div>
     <script src="script.js"></script>
